@@ -1,13 +1,13 @@
-DS_Store
-idea/CVPR_PRJ.iml
-idea/encodings.xml
-idea/misc.xml
-idea/modules.xml
-idea/workspace.xml
-ipynb_checkpoints/CVPR_PROJECT-checkpoint.ipynb
-ipynb_checkpoints/IOU-checkpoint.ipynb
-ipynb_checkpoints/Untitled1-checkpoint.ipynb
-ipynb_checkpoints/data_agumentation_script-checkpoint.ipynb
-ipynb_checkpoints/script_to_count_num_of_templates-checkpoint.ipynb
-Code/.DS_Store
+.DS_Store
+.idea/CVPR_PRJ.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.ipynb_checkpoints/CVPR_PROJECT-checkpoint.ipynb
+.ipynb_checkpoints/IOU-checkpoint.ipynb
+.ipynb_checkpoints/Untitled1-checkpoint.ipynb
+.ipynb_checkpoints/data_agumentation_script-checkpoint.ipynb
+.ipynb_checkpoints/script_to_count_num_of_templates-checkpoint.ipynb
+.Code/.DS_Store
 
